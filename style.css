@@ -164,3 +164,14 @@ main section:nth-of-type(2) p {
 .feature p {
     font-size: 16px;
 }
+
+/* Footer */
+footer {
+    background-color: #e23744;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
